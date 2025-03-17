@@ -9,7 +9,7 @@ A web service is a software system that enables communication between applicatio
 The main components are the client (sends requests), the web service (processes requests and sends responses), and the server (hosts the web service and manages communication).
 
 ### **Role of Servers**
-- Servers host web services, handle incoming requests, execute logic, and return responses. They also manage storage, security, and ensure the service is accessible over the internet.
+Servers host web services, handle incoming requests, execute logic, and return responses. They also manage storage, security, and ensure the service is accessible over the internet.
 
 ---
 
