@@ -3,17 +3,13 @@
 ## 1. Web Service Architecture & Server Roles
 
 ### **What is a Web Service?**
-A web service is an application that provides functionality over the internet using standardized communication protocols (HTTP, SOAP, REST, etc.).
+A web service is a software system that enables communication between applications over the internet using standardized protocols like HTTP, SOAP, or REST. It allows machines to interact and exchange data seamlessly
 
 ### **Components of Web Service Architecture**
-- **Client:** Sends a request to the web service.
-- **Web Service:** Processes the request and returns a response.
-- **Server:** Hosts the web service and manages requests.
+The main components are the client (sends requests), the web service (processes requests and sends responses), and the server (hosts the web service and manages communication).
 
 ### **Role of Servers**
-- **Hosting Web Services:** The server runs the web service code, making it accessible via the internet.
-- **Processing Requests:** It handles incoming HTTP requests and executes logic to generate responses.
-- **Storage & Security:** The server often interacts with databases and ensures secure communication.
+- Servers host web services, handle incoming requests, execute logic, and return responses. They also manage storage, security, and ensure the service is accessible over the internet.
 
 ---
 
